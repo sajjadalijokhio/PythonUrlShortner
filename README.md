@@ -2,7 +2,7 @@
 This is a simple URL shortener application built using Python's Tkinter library and the pyshorteners library. It allows you to quickly shorten long URLs.
 
 ### Acknowledgments
-This project was created as an educational example and a demonstration of using the Tkinter library and the `pyshorteners` library to build a simple application.
+This project was created as an educational example, during my internship at SYNC INTERN'S, of using the Tkinter library and the `pyshorteners` library to build a simple application.
 Enjoy using the URL shortener!
 
 ### Prerequisites
